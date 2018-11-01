@@ -25,6 +25,7 @@ int chet (char *firstFile, char *secondFile)
 на выходе получается число*/
 }
 
+
 int main()
 {
     openFile(firstFile);
